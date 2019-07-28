@@ -1,0 +1,1 @@
+javac -classpath .;.jars\*; DatabaseConnection.java
